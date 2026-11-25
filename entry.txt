@@ -1,0 +1,1 @@
+v2.7.1: fixed a bug where the brain queued every embarrassing moment since 2009 for playback at 3 a.m. instead of sleeping.
